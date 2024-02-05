@@ -86,7 +86,8 @@ The documents in decreasing order of ranks are D2, D4, D1, D3.
 
 
 ## Code Output
-![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/6976a80c-f5d3-443c-b1e1-864297049abe)
+![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/498e4cac-423b-49f6-a5b3-e947e755d4e9)
+
 
 ## Installation
 
