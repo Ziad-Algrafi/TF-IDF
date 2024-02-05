@@ -91,4 +91,4 @@ To install the required Python packages, run:
 pip install -r requirements.txt
 
  Code Output
-https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/d7d3383c-e605-4770-8675-3a0b59bfbcf5
+![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/d7d3383c-e605-4770-8675-3a0b59bfbcf5)
