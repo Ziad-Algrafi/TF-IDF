@@ -82,6 +82,8 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 
 The documents in decreasing order of ranks are D2, D4, D1, D3.
 
+## Code Output
+![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/34184275-e822-48cb-bb91-8cf913981a4e)
 
 ## Installation
 
@@ -89,6 +91,3 @@ To install the required Python packages, run:
 
 ```bash
 pip install -r requirements.txt
-```
- Code Output
-![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/34184275-e822-48cb-bb91-8cf913981a4e)
