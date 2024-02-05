@@ -63,16 +63,16 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 | W3      | 0             |
 | W4      | 0             |
 
-| Lengths of Documents |               |
-|----------------------|               |
+| Lengths of Documents |               
+|----------------------|               
 | WQ_norm              | 0.99999       |
 | W1_norm              | 0.99999       |
 | W2_norm              | 1.400         |
 | W3_norm              | 0.99999       |
 | W4_norm              | 0.99999       |
 
-| Cosine Similarity |               |
-|-------------------|               |
+| Cosine Similarity |               
+|-------------------|               
 | Cos(NQ, ND1)      | 0.03845       |
 | Cos(NQ, ND2)      | 0.7142        |
 | Cos(NQ, ND3)      | 0             |
