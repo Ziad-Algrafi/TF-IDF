@@ -84,6 +84,52 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 
 The documents in decreasing order of ranks are D2, D4, D1, D3.
 
+Ranking of Documents:
+Rank 1: Document 2 - Cosine Similarity: 0.71401
+  Document Text: Covid Vaccination Center
+  Dictionary:
+    application: 0.0
+    vaccination: 0.3
+    covid: 0.3
+    pilgrims: 0.0
+    health: 0.0
+    certificate: 0.0
+    center: 0.3
+
+Rank 2: Document 4 - Cosine Similarity: 0.03846
+  Document Text: Certificate of Vaccination
+  Dictionary:
+    application: 0.0
+    vaccination: 0.3
+    covid: 0.0
+    pilgrims: 0.0
+    health: 0.0
+    certificate: 0.3
+    center: 0.0
+
+Rank 3: Document 1 - Cosine Similarity: 0.03846
+  Document Text: Vaccination Application
+  Dictionary:
+    application: 0.5
+    vaccination: 0.5
+    covid: 0.0
+    pilgrims: 0.0
+    health: 0.0
+    certificate: 0.0
+    center: 0.0
+
+Rank 4: Document 3 - Cosine Similarity: 0.00000
+  Document Text: Health of Pilgrims
+  Dictionary:
+    application: 0.0
+    vaccination: 0.0
+    covid: 0.0
+    pilgrims: 0.3
+    health: 0.3
+    certificate: 0.0
+    center: 0.0
+
+The documents in decreasing order of ranks are: D2, D4, D1, D3
 
 ## Code Output
 ![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/498e4cac-423b-49f6-a5b3-e947e755d4e9)
