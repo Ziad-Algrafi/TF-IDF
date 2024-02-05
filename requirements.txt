@@ -1,0 +1,7 @@
+# requirements.txt
+
+#Python Version 
+python_version>=3.6
+
+# NumPy Version
+numpy==1.21.1
