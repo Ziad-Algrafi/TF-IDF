@@ -81,3 +81,12 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 ## Results
 
 The documents in decreasing order of ranks are D2, D4, D1, D3.
+
+
+## Installation
+
+To install the required Python packages, run:
+
+```bash
+pip install -r requirements.txt
+
