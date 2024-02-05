@@ -73,10 +73,10 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 
 | Cosine Similarity |
 |-------------------|
-| Cos(NQ, ND1)       | 0.03845       |
-| Cos(NQ, ND2)       | 0.7142        |
-| Cos(NQ, ND3)       | 0             |
-| Cos(NQ, ND4)       | 0.03845       |
+| Cos(NQ, ND1)      | 0.03845       |
+| Cos(NQ, ND2)      | 0.7142        |
+| Cos(NQ, ND3)      | 0             |
+| Cos(NQ, ND4)      | 0.03845       |
 
 ## Results
 
