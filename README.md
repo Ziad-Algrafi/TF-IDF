@@ -28,10 +28,11 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 
 |         | D1  | D2  | D3  | D4  |
 |---------|-----|-----|-----|-----|
-| W1      | 1   | 0.2 | 0   | 0   | 0   | 0   |
-| W2      | 0   | 0.12| 0.6 | 0   | 0   | 0.6 |
-| W3      | 0   | 0   | 0   | 0.6 | 0.6 | 0   |
-| W4      | 0   | 0.12| 0   | 0   | 0   | 0.6 |
+| W1      | 1   | 0.2 | 0   | 0   |
+| W2      | 0   | 0.12| 0.6 | 0   |
+| W3      | 0   | 0   | 0   | 0.6 |
+| W4      | 0   | 0.12| 0   | 0.6 |
+| WQ (Query)| 0 | 0.2 | 1   | 0   |
 
 ### III. Normalization
 
@@ -41,6 +42,7 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 | W2_norm | 0             | 0.19611       | 0.98058       | 0             |
 | W3_norm | 0             | 0             | 0             | 0.70710       |
 | W4_norm | 0             | 0.19611       | 0             | 0             |
+| WQ_norm | 0             | 0.19611       | 0.98058       | 0             |
 
 ### IV. Cosine Similarity for Query "Covid Vaccination"
 
@@ -81,6 +83,7 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 ## Results
 
 The documents in decreasing order of ranks are D2, D4, D1, D3.
+
 
 ## Code Output
 ![NLP](https://github.com/ZiadAlgrafi/TF-IDF/assets/117011801/34184275-e822-48cb-bb91-8cf913981a4e)
