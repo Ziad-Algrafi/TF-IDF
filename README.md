@@ -57,6 +57,7 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 | certificate  | 2   | 0    |
 | center       | 2   | 0    |
 
+### V. Weight Calculation for Query:
 |         | Query         |
 |---------|---------------|
 | WQ      | 0             |
@@ -65,6 +66,7 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 | W3      | 0             |
 | W4      | 0             |
 
+### VI. Lengths of Documents:
 | Lengths of Documents |               |                
 |----------------------|---------------|                
 | WQ_norm              | 0.99999       |
@@ -72,6 +74,8 @@ The project involves applying the TF-IDF algorithm to a corpus of 4 documents. T
 | W2_norm              | 1.400         |
 | W3_norm              | 0.99999       |
 | W4_norm              | 0.99999       |
+
+### VII. Cosine Similarity Calculation:
 
 | Cosine Similarity |               |    
 |-------------------|---------------|        
